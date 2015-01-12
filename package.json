@@ -1,6 +1,6 @@
 {
   "name": "hooq-provider-amazon-sqs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure SQS provider for hooq.io",
   "main": "lib/index.js",
   "scripts": {
